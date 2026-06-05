@@ -1,0 +1,14 @@
+# Build artifacts
+*.exe
+*.spec
+__pycache__/
+*.pyc
+build/
+dist/
+
+# Sample files
+Files/
+
+# IDE
+.vscode/
+.idea/

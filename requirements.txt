@@ -1,0 +1,2 @@
+python-pptx>=0.6.21
+pywin32; sys_platform == 'win32'
